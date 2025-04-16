@@ -37,6 +37,11 @@ Key sections of the report:
 5. **Visualizations (Boxplots, Pair Plots)**
 6. **Hypothesis Testing**
 
+## Report Details
+
+- **Author**: Pranav Sunil Raja   
+- **University**: Newcastle University 
+
 ## Getting Started
 
 To run the analysis:
@@ -50,7 +55,4 @@ Or use this R command:
 ```r
 rmarkdown::render("Penguin.Rmd")
 
-## Report Details
-
-- **Author**: Pranav Sunil Raja   
-- **University**: Newcastle University  
+ 
