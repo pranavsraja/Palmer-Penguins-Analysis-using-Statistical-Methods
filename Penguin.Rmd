@@ -10,10 +10,6 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
- **Pranav Sunil Raja**  
- **Student No.: 240408545**
- **Newcastle University, Newcastle upon Tyne**
- 
 # Introduction
  
 This Project aims to apply diverse statistical methods to analyse the Palmer Archipelago Penguin's data-set. This is done by examining the relationship between various factors and islands with the use of various data-set features. The concepts equipped in this project include exploratory data analysis and hypothesis testing, providing essential information and tools for scientists to draw meaningful inferences and make predictive assessments. 
